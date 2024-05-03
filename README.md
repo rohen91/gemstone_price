@@ -30,7 +30,7 @@ Dataset Source Link :
 
 # Screenshot of UI
 
-![HomepageUI](./Screenshots/HomepageUI.jpg)
+![HomepageUI](./Screenshots/HomepageUI.png)
 
 
 # Approach for the project 
